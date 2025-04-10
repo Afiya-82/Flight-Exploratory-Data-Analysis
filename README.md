@@ -148,3 +148,5 @@ True Negatives (TN): The number of instances that are correctly predicted as neg
 False Positives (FP): The number of instances that are incorrectly predicted as positive by the model. These are the cases where the model predicted the positive class, but the actual class is negative.
 False Negatives (FN): The number of instances that are incorrectly predicted as negative by the model. These are the cases where the model predicted the negative class, but the actual class is positive.
 For viewing the jupyter notebook code, click Flight Data EDA
+
+Made with ❤️ by [**Afiya rani**]
